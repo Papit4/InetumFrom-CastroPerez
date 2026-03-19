@@ -1,6 +1,5 @@
 # Dependencies
 node_modules/
-package-lock.json
 
 # Playwright
 test-results/
@@ -21,7 +20,7 @@ Thumbs.db
 *.swp
 *.swo
 
-# Environment
+# Environment - IMPORTANTE
 .env
 .env.local
 
